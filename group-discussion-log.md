@@ -8,3 +8,8 @@ Tuesday, 29 September
 * Discussed final website ideas  
   * HTML \- Tergel, Cici  
   * CSS \- Allison, Shreya
+ 
+ Thursday, 8 October
+ * Discussed overall feedback and changes we need to make
+ * Allison and Cici needs to change data collection method to anonymize user info
+ * Going to review our personalized feedback on our own time
