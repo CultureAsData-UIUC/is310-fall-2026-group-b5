@@ -13,3 +13,7 @@ Tuesday, 29 September
  * Discussed overall feedback and changes we need to make
  * Allison and Cici needs to change data collection method to anonymize user info
  * Going to review our personalized feedback on our own time
+
+Thursday, 22 October
+
+* Discussed Milestone II ideas, submission criteria, timeline going forward, and asked questions.
