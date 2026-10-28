@@ -26,7 +26,7 @@ I chose this dataset because it directly relates to my research question and fit
 
 For my initial dataset, I selected 75 records from the original dataset.
 
-There are five study groups represented in the data, so I randomly selected 15 records from each group to make sure they were all included. This means my sample is balanced across the study groups, although it doesn't necessarily represent the same proportions as the full dataset.
+There are five study groups represented in the data, so I randomly selected 15 records from each group to make sure they were all included. The Python script included in this folder checks that my selected records match the original dataset and verifies my calculations and audit categories. However, it does not recreate the original random sampling process. This means my sample is balanced across the study groups, although it doesn't necessarily represent the same proportions as the full dataset.
 
 I kept all 15 original columns and added seven new columns to help with my audit. My final dataset contains 75 records and 22 columns.
 
@@ -138,6 +138,8 @@ I also used it to help understand how the dataset's measurements could be interp
 ## 10. Files
 
 - `cmu_sleep_audit_75.csv`: My initial audited dataset with 75 records
+- `cmu-sleep.csv`: The original dataset used for my audit
+- `audit_script.py`: Python script that checks the selected records, calculations, and audit categories
 - `README.md`: Documentation explaining my dataset, audit process, observations, and next steps
 
 ## 11. References
