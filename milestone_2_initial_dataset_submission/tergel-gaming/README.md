@@ -38,7 +38,7 @@ The initial dataset passed the structural checks.
 
 ## Audit plan
 
-I will audit the Kaggle dataset *Gaming vs Academic Performance*. My Milestone 1 notes describe it as synthetic. I will verify that description against the data card, record the version and license, and look for generation documentation. In Python, I will profile the columns, types, missing values, duplicates, and distributions. I will examine how the data represent gaming, academic success, and problematic use. If the documentation specifies generation rules, I will compare them with the patterns in the records. [Kaggle dataset](https://www.kaggle.com/datasets/aiexplorer77/gaming-vs-academic-performance)
+I will audit the Kaggle dataset *Gaming vs Academic Performance*. I will verify that that it is synthetic against the data card, record the version and license, and look for generation documentation. In Python, I will profile the columns, types, missing values, duplicates, and distributions. I will examine how the data represent gaming, academic success, and problematic use. If the documentation specifies generation rules, I will compare them with the patterns in the records. [Kaggle dataset](https://www.kaggle.com/datasets/aiexplorer77/gaming-vs-academic-performance)
 
 The custom dataset records public passages. The Kaggle dataset appears to use student-level records. I will compare their categories and assumptions in a table. For example, I will check which measures can represent differences among playing to unwind, playing to make friends, and playing in ways a source says interfere with coursework. I will document where the datasets lack shared identifiers or measure different things and explain what those gaps reveal about their representations.
 
